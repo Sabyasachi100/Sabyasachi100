@@ -12,10 +12,10 @@
 <a href="https://github.com/Sabyasachi100">
 <img src="https://img.shields.io/badge/GitHub-Sabyasachi100-0D1117?style=flat-square&logo=github&logoColor=58A6FF"/>
 </a>
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/sabyasachi-mishra-26b29833b">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=flat-square&logo=linkedin&logoColor=58A6FF"/>
 </a>
-<a href="mailto:your-email@example.com">
+<a href="mailto:sabyasachimishra2510@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-0D1117?style=flat-square&logo=gmail&logoColor=58A6FF"/>
 </a>
 
@@ -217,11 +217,11 @@ Focused on network traffic analysis, intrusion detection, and machine learning t
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/sabyasachi-mishra-26b29833b">
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
 </a>
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:sabyasachimishra2510@gmail.com">
 <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF"/>
 </a>
 
