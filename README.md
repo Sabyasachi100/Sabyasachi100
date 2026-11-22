@@ -5,117 +5,171 @@
 
 <br/>
 
-<a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=AI%2FML+Enthusiast;Full+Stack+Developer;Building+Projects+%7C+Learning+%7C+Exploring;Turning+Ideas+Into+Working+Software" alt="Typing SVG"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI%2FML+Enthusiast;Full+Stack+Developer;Software+Engineering+%7C+Problem+Solving;Building.+Learning.+Experimenting." alt="Typing SVG"/>
 
 <br/>
 
 <a href="https://github.com/Sabyasachi100">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Sabyasachi100-0D1117?style=flat-square&logo=github&logoColor=58A6FF"/>
 </a>
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=flat-square&logo=linkedin&logoColor=58A6FF"/>
 </a>
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-Contact-0D1117?style=flat-square&logo=gmail&logoColor=58A6FF"/>
 </a>
 
 </div>
 
-<br/>
+---
 
 <div align="center">
 
-# `01` — ABOUT ME
+### `01` — ABOUT ME
 
 </div>
 
 ```text
-Name       : Sabyasachi Mishra
-Role       : Computer Science Student
-Interests  : AI/ML, Software Engineering, Full-Stack Development
-Mindset    : Learn → Build → Experiment → Improve
+NAME        : Sabyasachi Mishra
+ROLE        : Computer Science Student
+INTERESTS   : AI/ML, Full Stack, Software Engineering
+FOCUS       : Building practical, intelligent applications
+MINDSET     : Learn → Build → Experiment → Improve
 ```
 
-I'm a Computer Science student passionate about software development, artificial intelligence, and building technology that solves real-world problems.
+I'm a Computer Science student interested in building intelligent systems,
+modern web applications, and software that solves real-world problems.
 
-I enjoy experimenting with new technologies, developing projects, understanding how systems work behind the scenes, and continuously improving my engineering skills.
+I enjoy exploring new technologies, developing projects, understanding
+how systems work, and continuously improving my development skills.
 
 ---
 
 <div align="center">
 
-# `02` — CURRENTLY EXPLORING
+### `02` — CURRENT FOCUS
 
 </div>
 
-- Artificial Intelligence & Machine Learning
-- Full-Stack Web Development
-- Backend Development & API Design
-- Data Structures & Algorithms
-- Computer Vision
-- Database Systems & System Design
+```text
+▹ Artificial Intelligence & Machine Learning
+▹ Full Stack Web Development
+▹ Backend Engineering & API Development
+▹ Data Structures & Algorithms
+▹ Computer Vision
+▹ Database Management & System Design
+```
 
 ---
 
 <div align="center">
 
-# `03` — FEATURED PROJECTS
+### `03` — TECH STACK
+
+</div>
+
+#### Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts" />
+</p>
+
+#### AI / Machine Learning
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+</p>
+
+#### Frontend & Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,html,css,tailwind" />
+</p>
+
+#### Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
+</p>
+
+#### Tools & Platforms
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+</p>
+
+---
+
+<div align="center">
+
+### `04` — FEATURED PROJECTS
+
+<sub>SOFTWARE · AI · HEALTHCARE · CYBERSECURITY</sub>
 
 </div>
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📈 AI Stock Market Prediction
+### ◈ JavaFX CampusConnect
 
-Machine learning-based stock prediction application exploring historical financial data, sequence modeling, and future price forecasting.
+A Java-based campus communication application designed to connect students and provide a centralized communication environment.
+
+**Features**
+- Private & group messaging
+- TCP socket-based communication
+- File and document sharing
+- Admin announcements
+- JDBC database connectivity
 
 **Tech Stack**
 
-Python · TensorFlow · LSTM · Pandas · Streamlit
-
-[View Repository](https://github.com/Sabyasachi100/AI-Stock-Market-Prediction)
+`Java` `JavaFX` `TCP Sockets` `JDBC` `MySQL` `Maven`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⚡ DevFlow
+### ◈ SoulHeal
 
-A full-stack productivity and workspace application exploring authentication, database architecture, backend engineering, and collaborative workflows.
+A student mental wellness platform focused on creating a digital space for mental well-being and student support.
+
+Developed with a full-stack architecture integrating frontend experiences, backend APIs, authentication, and database services.
 
 **Tech Stack**
 
-Next.js · TypeScript · PostgreSQL · Prisma · Redis
+`React` `Node.js` `Express.js` `MongoDB`
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧠 SoulHeal
+### ◈ MediCheck
 
-A student-focused mental wellness platform designed to provide accessible digital support and meaningful user experiences.
+A healthcare-oriented technology project focused on bringing software-based solutions into the healthcare domain.
 
-**Tech Stack**
+Exploring the application of technology to simplify health-related processes and provide a more accessible digital healthcare experience.
 
-React · Node.js · Express · MongoDB
+**Domain**
+
+`Healthcare` `Software Development` `Technology`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🖐️ GestureX
+### ◈ Network Intrusion Detection System
 
-A computer vision project exploring hand tracking and gesture-based computer interaction.
+A cybersecurity-focused project exploring intelligent identification of potentially suspicious network activity using data-driven approaches.
 
-**Tech Stack**
+Focused on network traffic analysis, intrusion detection, and machine learning techniques for cybersecurity applications.
 
-Python · OpenCV · MediaPipe
+**Domain**
+
+`Machine Learning` `Cybersecurity` `Network Analysis` `Threat Detection`
 
 </td>
 </tr>
@@ -125,39 +179,7 @@ Python · OpenCV · MediaPipe
 
 <div align="center">
 
-# `04` — TECH STACK
-
-</div>
-
-<div align="center">
-
-### LANGUAGES
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts&theme=dark"/>
-
-### AI / MACHINE LEARNING
-
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark"/>
-
-### FRONTEND & BACKEND
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi&theme=dark"/>
-
-### DATABASES
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark"/>
-
-### TOOLS & ENVIRONMENT
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark"/>
-
-</div>
-
----
-
-<div align="center">
-
-# `05` — GITHUB ANALYTICS
+### `05` — GITHUB STATISTICS
 
 <br/>
 
@@ -167,7 +189,7 @@ Python · OpenCV · MediaPipe
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabyasachi100&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabyasachi100&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="45%"/>
 
 </div>
 
@@ -175,9 +197,11 @@ Python · OpenCV · MediaPipe
 
 <div align="center">
 
-# `06` — CONTRIBUTION MATRIX
+### `06` — CONTRIBUTION ACTIVITY
 
-<img src="https://ghchart.rshah.org/58A6FF/Sabyasachi100" width="100%" alt="GitHub contribution graph"/>
+<br/>
+
+<img src="https://ghchart.rshah.org/58A6FF/Sabyasachi100" alt="GitHub Contribution Graph"/>
 
 </div>
 
@@ -185,17 +209,29 @@ Python · OpenCV · MediaPipe
 
 <div align="center">
 
-# `07` — CONNECT
+### `07` — CONNECT
 
-### Let's build something interesting.
+<br/>
 
-<a href="https://github.com/Sabyasachi100">GitHub</a> •
-<a href="https://www.linkedin.com/in/sabyasachi-mishra-26b29833b">LinkedIn</a> •
-<a href="mailto:sabyasachimishra2510@gmail.com">Email</a>
+<a href="https://github.com/Sabyasachi100">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF"/>
+</a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0D1117&section=footer&text=THINK.%20BUILD.%20ITERATE.&fontColor=58A6FF&fontSize=24"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=footer" width="100%"/>
+
+<sub>THINK. BUILD. ITERATE.</sub>
+
+<br/>
 
 <sub>Curiosity drives the code.</sub>
 
